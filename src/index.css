@@ -5,7 +5,7 @@ body {
   sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /*background-image: url("https://img.freepik.com/free-photo/big-data-technology-for-business-finance-concept_31965-3088.jpg");*/
+  background-image: url("https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -15,7 +15,9 @@ code {
     monospace;
 }
 
-
+*{
+  padding-top: 20px;
+}
 /*.container{*/
 /*  position: relative;*/
 /*  max-width: 1110px;*/
