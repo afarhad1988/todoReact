@@ -1,0 +1,16 @@
+.header{
+    background-color: #383f04;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.navbar a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    margin: 0 15px;
+
+}
